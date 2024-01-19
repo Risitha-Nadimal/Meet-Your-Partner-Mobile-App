@@ -31,6 +31,9 @@ class _TroubleLoginPageState extends State<TroubleLoginPage> {
                   height: 40,
                 ),
                 const Text("Enter you mail"),
+                const SizedBox(
+                  height: 5,
+                ),
                 const textfielduse(),
                 const SizedBox(
                   height: 40,
